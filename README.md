@@ -6,6 +6,10 @@ A responsive first aid education website built with HTML, CSS, and JavaScript.
 
 Clone the repository and open `home.html` in a browser. No installation or build step is needed. Keep the `css`, `js`, and `images` folders alongside the HTML pages. Google Fonts requires internet access; fallback fonts work without it.
 
+## Deploy on Vercel
+
+Use the **Other** framework preset with the repository root as the project directory. No build command is needed. The root `vercel.json` routes `/` to `home.html`, preserving the seven filenames required by the assignment.
+
 ## Pages
 
 - `home.html`: topic directory, situation selector, first aid kit guide, learning questions, and registration form.
